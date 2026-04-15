@@ -19,7 +19,9 @@ Notes: If a username is not availble it will change your number + 1.
 
 
  to run your py file:
- ```python temp_mail.py```
+ ```
+    python temp_mail.py
+ ```
 
 
 
