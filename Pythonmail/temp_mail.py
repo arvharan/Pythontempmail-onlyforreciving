@@ -9,7 +9,7 @@ domain = domain_names['hydra:member'][0]['domain']
 
 username = "enteryourusernamehere"
 email = f"{username}@{domain}"
-password = "testpassword"
+password = "enteryourpasswordhere"
 
 print("Creating Account...\n")
 
