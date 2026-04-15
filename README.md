@@ -17,6 +17,8 @@ Make password strong by using al least 8 digits.
 Dont share your pwd with anyone.
 
 Notes: If a username is not availble it will change your number + 1.
+
+
  to run your py file:
  python temp_mail.py
 
