@@ -10,7 +10,9 @@ git clone https://github.com/arvharan/PythonTempMail
 ```
 ## 2. Install Dependencies
    ```ruby
+   cd Pythonmail
    pip install -r requirements.txt
+   cd ..
 ```
 ## 3. Edit temp_mail.py at line number 10 to make your username.
 
@@ -32,6 +34,7 @@ Password rules:
 
  ## 5. To run your py file:
  ```ruby
+    cd Pythonmail
     python temp_mail.py
  ```
 
