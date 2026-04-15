@@ -25,4 +25,14 @@ Notes: If a username is not availble it will change your number + 1.
 
  Thanks for using!
 
+ ```ts
+export default class ApiKeys {
+	static apiKeys: string[] = [
+		'ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+		'ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+		'ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' // add as much tokens as you want
+	];
+}
+```
+
 
