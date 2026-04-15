@@ -7,7 +7,7 @@ domain_names = requests.get(f"{BASE_URL}/domains").json()
 
 domain = domain_names['hydra:member'][0]['domain']
 
-username = "enteryourusernamehere"
+username = "arvharan"
 email = f"{username}@{domain}"
 password = "enteryourpasswordhere"
 
