@@ -10,6 +10,7 @@ git clone https://github.com/arvharan/PythonTempMail
 ```
 ## 2. Install Dependencies
    ```ruby
+   cd PythonTempMail
    cd Pythonmail
    pip install -r requirements.txt
    cd ..
