@@ -4,7 +4,8 @@ Here you can use this python code for your temp email.
 Ignore bad temp websites like temp-mail.
 TO use first install dependencies:
 
-```ts pip install -r requirements.txt```
+```
+pip install -r requirements.txt```
 
 Edit temp_mail.py at line number 10 to make your username.
 username rules:
@@ -26,13 +27,7 @@ Notes: If a username is not availble it will change your number + 1.
  Thanks for using!
 
  ```ts
-export default class ApiKeys {
-	static apiKeys: string[] = [
-		'ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
-		'ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
-		'ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' // add as much tokens as you want
-	];
-}
+pip install -r requirements.txt
 ```
 
 
